@@ -1,6 +1,6 @@
 # B2B Supply Chain Smart Contract
 
-![Project Screenshot](images/Screenshot%202025-05-26%20153209.png)
+![Screenshot%202025-05-26%20153209.png](images/Screenshot%202025-05-26%20153209.png)
 
 
 ---
