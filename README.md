@@ -1,6 +1,6 @@
 # B2B Supply Chain Smart Contract
 
-![Screenshot%202025-05-26%20153209.png](images/Screenshot%202025-05-26%20153209.png)
+<img src="Screenshot 2025-05-26 153209.png" alt="Bayan Banner" width="100%" />
 
 
 ---
