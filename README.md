@@ -1,6 +1,7 @@
 # B2B Supply Chain Smart Contract
 
-![Cool Logo](Screenshot 2025-05-26 153209.png)
+![Project Screenshot](images/Screenshot%202025-05-26%20153209.png)
+
 
 ---
 
