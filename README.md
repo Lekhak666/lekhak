@@ -1,7 +1,6 @@
 # B2B Supply Chain Smart Contract
 
-![Project Image](path/to/Screenshot 2025-05-26 153209.png)  
-*Add your project banner or image above by replacing the path*
+![Cool Logo](Screenshot 2025-05-26 153209.png)
 
 ---
 
